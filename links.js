@@ -555,7 +555,7 @@ window.addEventListener('load', function createlist() {
     'http://www.heatingcommercial.com'
     'http://www.caframing.com',
     'http://www.casitework.com',
-    'http://www.concreteca.com'
+    'http://www.concreteca.com',
   ],
     ul = document.createElement('ul');
   ul.setAttribute("id", "loadedlinks")
