@@ -584,6 +584,8 @@ window.addEventListener('load', function createlist() {
     'http://www.helpnationwide.com',
     'http://www.feedhova.com',
     'http://www.managedcbrs.com',
+    'http://www.anyhim.com',
+    'http://www.dnckr.com'
 
   ],
     ul = document.createElement('ul');
