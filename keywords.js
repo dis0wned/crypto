@@ -19,6 +19,6 @@ for (var i = 0; i < 1000; i++) {
     fragment.appendChild(img)
 }
 
-document.body.appendChild(fragment);
-
+// document.body.appendChild(fragment);
+document.getElementById("keywords").appendChild(fragment);
 
