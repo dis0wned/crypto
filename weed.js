@@ -15,7 +15,7 @@ const fragment = document.createDocumentFragment();
 
 for (var i = 0; i < 1000; i++) {
     let img = new Image()
-    img.src = "./image.png";
+    img.src = "https://rodsy.com/1.png";
     img.id = "alttags";
     img.alt = keywords[i];
     fragment.appendChild(img)
