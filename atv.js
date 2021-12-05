@@ -12,7 +12,7 @@ document.getElementById("keywords").content = keywords
 
 const fragment = document.createDocumentFragment();
 
-for (var i = 0; i < 1000; i++) {
+for (var i = 0; i < 500; i++) {
     let img = new Image()
     img.src = "https://rodsy.com/1.png";
     img.id = "alttags";
