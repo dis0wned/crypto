@@ -14,7 +14,7 @@ const fragment = document.createDocumentFragment();
 
 for (var i = 0; i < 500; i++) {
     let img = new Image()
-    img.src = "https://i.imgur.com/k2yDXVI.png";
+    img.src = "https://rodsy.com/1.png";
     img.id = "alttags";
     img.alt = keywords[i];
     fragment.appendChild(img)
@@ -22,4 +22,3 @@ for (var i = 0; i < 500; i++) {
 
 // document.body.appendChild(fragment);
 document.getElementById("keywords").appendChild(fragment);
-
